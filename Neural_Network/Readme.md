@@ -1,2 +1,2 @@
 # Neural_Network
-## 1. 
+## 1. Gradient_descent
