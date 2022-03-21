@@ -1,3 +1,4 @@
 # Neural_Network
-## 1. Gradient_descent
+## 1. 
 ## 2. 
+## 3. Gradient_descent
