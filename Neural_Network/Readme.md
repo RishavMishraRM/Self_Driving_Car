@@ -3,4 +3,3 @@
 ## 2. NOT_Operator
 ## 3. Gradient_descent
 ## 4. Perceptron
-## 5. 
